@@ -1,4 +1,4 @@
-#define size 10000000
+#define size 10000
 struct stack{
     char items[size];
     int top;
