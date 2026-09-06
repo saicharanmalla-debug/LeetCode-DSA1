@@ -56,3 +56,32 @@
 	<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>
 	<li><code>s</code> consists of parentheses only <code>&#39;()[]{}&#39;</code>.</li>
 </ul>
+
+
+## My Notes
+
+### Idea
+Use a stack to store opening brackets.
+
+- `(`, `[`, `{` → push into stack
+- `)`, `]`, `}` → pop from stack and check if it matches
+- If stack is empty when a closing bracket comes → invalid
+- At the end, stack must be empty
+
+### Functions
+- `push()` → adds a bracket to the stack
+- `pop()` → removes the top bracket
+- `matching()` → checks whether two brackets match
+- `isValid()` → processes the string using the stack
+
+### Example
+`([])` → Valid
+
+```text
+( → push
+[ → push
+] → pop [ ✓
+) → pop ( ✓
+stack empty → Valid
+
+
