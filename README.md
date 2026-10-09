@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0155-min-stack/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
