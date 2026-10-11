@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0217-contains-duplicate](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0217-contains-duplicate/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
@@ -48,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saicharanmalla-debug/LeetCode-DSA1/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
